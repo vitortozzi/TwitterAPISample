@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwitterAPI</string>
+    <string name="login_welcome">Welcome!</string>
+    <string name="home_hello">Hello,</string>
+</resources>
